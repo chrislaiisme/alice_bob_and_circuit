@@ -1,0 +1,10 @@
+Running Alice...
+Alice took 0.001995 seconds
+la = 48300
+Running Bob...
+Bob took 0.001995 seconds
+lb = 69000
+Running Circuit...
+Circuit took 0.570374 seconds
+l = 19531756
+Your answer seems correct
